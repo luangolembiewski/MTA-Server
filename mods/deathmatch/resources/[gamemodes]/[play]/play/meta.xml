@@ -1,0 +1,16 @@
+<meta>
+	<info author="[M]oises" description="boamta.com.br" version="1" type="gamemode" />
+	<include resource="spawnmanager" />
+	
+	<settings>
+		<setting name="*spawnreset" value="onSpawn"
+				 friendlyname="Spawn Reset"
+				 accept="onSpawn,onServerEmpty,onServerStart"
+				 desc="When should a new spawnpoint be chosen?"
+		/>
+	</settings>
+	
+	<map src="broph.map" />
+	<script src="script.lua" type="server" />
+	<export function="setPlayerAcls" type="server" /> 		--exports.play:setPlayerAcls(player)
+</meta>

@@ -1,0 +1,59 @@
+<meta>
+
+<!-- Carros -->
+    <file src="files/FerrariGTB/ferrariGTB.txd" download="false" />
+	<file src="files/FerrariGTB/ferrariGTB.dff" download="false" />
+
+    <file src="files/NissanR34/nissanR34.txd" download="false" />
+	<file src="files/NissanR34/nissanR34.dff" download="false" />
+
+    
+	<!-- <file src="files/Chevette/chevette.txd" download="false" />
+	<file src="files/Chevette/chevette.dff" download="false" />
+    
+    <file src="files/DodgeHellcat/dodgeHellcat.txd" download="false" />
+	<file src="files/DodgeHellcat/dodgeHellcat.dff" download="false" />
+
+    <file src="files/Fusca/fusca.txd" download="false" />
+	<file src="files/Fusca/fusca.dff" download="false" />
+
+    <file src="files/GolGTI/golGti.txd" download="false" />
+	<file src="files/GolGTI/golGti.dff" download="false" />
+
+    <file src="files/Kuruma/kuruma.txd" download="false" />
+	<file src="files/Kuruma/kuruma.dff" download="false" />
+
+    <file src="files/Mercedes63S/mercedes63S.txd" download="false" />
+	<file src="files/Mercedes63S/mercedes63S.dff" download="false" />
+
+    <file src="files/Mobilete/mobilete.txd" download="false" />
+	<file src="files/Mobilete/mobilete.dff" download="false" />
+    
+    
+    <file src="files/NissanR35/nissanR35.txd" download="false" />
+	<file src="files/NissanR35/nissanR35.dff" download="false" />
+    
+    <file src="files/Supra/supra.txd" download="false" />
+	<file src="files/Supra/supra.dff" download="false" />
+    
+    <file src="files/Xj6/xj6.txd" download="false" />
+	<file src="files/Xj6/xj6.dff" download="false" />
+    
+    <file src="files/Z1000/z1000.txd" download="false" />
+	<file src="files/Z1000/z1000.dff" download="false" /> -->
+
+
+    
+    
+    <script type="shared" src="global.lua" cache="false" />
+    <script type="server" src="sMelo.lua" />
+    <script type="client" src="main.lua" cache="false" />
+    <script type="client" src="cMelo.lua" cache="false" />
+    
+    <export type="shared" function="getVehicleNameFromModel" />
+    <export type="shared" function="getVehicleName" />
+    <export type="shared" function="getVehicleNameList" />
+    <export type="client" function="getInterfaceElements" />
+    
+    <download_priority_group>-13</download_priority_group>
+</meta>

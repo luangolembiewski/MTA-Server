@@ -1,0 +1,25 @@
+<mistic>
+    <!-- SCRIPT's UTIL's -->
+    <oop>true</oop>
+    <min_mta_version server = "1.5.4-9.11413"/>
+    <min_mta_version client = "1.5.8-9.20979"/>
+    <!-- SCRIPT's MAIN's -->
+    <script src = "notify-g.lua" type = "shared" cache = "false"/>
+    <script src = "notify-c.mst" type = "client" cache = "false"/>
+    <!-- SCRIPT's GFX's -->
+    <file src = "assets/gfx/announce.png"/>
+    <file src = "assets/gfx/blood.png"/>
+    <file src = "assets/gfx/cancel.png"/>
+    <file src = "assets/gfx/check.png"/>
+    <file src = "assets/gfx/important.png"/>
+    <file src = "assets/gfx/locked.png"/>
+    <file src = "assets/gfx/ring.png"/>
+    <file src = "assets/gfx/social.png"/>
+    <file src = "assets/gfx/unlocked.png"/>
+    <!-- SCRIPT's SFX's -->
+    <file src = "assets/sfx/sound.mp3"/>
+    <file src = "assets/sfx/nil.mp3"/>
+    <!-- SCRIPT's FONT's -->
+    <file src = "assets/fonts/poppins_medium.ttf"/>
+    <file src = "assets/fonts/poppins_regular.ttf"/>
+</mistic>

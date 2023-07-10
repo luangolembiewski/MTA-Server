@@ -1,0 +1,23 @@
+mass               (350=100)(10000=3500)
+turnMass
+dragCoeff
+centerOfMass
+percentSubmerged
+suspensionUpperLimit
+suspensionLowerLimit
+tractionMultiplier
+tractionLoss
+tractionBias
+brakeDeceleration
+numberOfGears
+maxVelocity
+engineAcceleration
+engineInertia
+driveType
+engineType
+collisionDamageMultiplier
+ABS"
+steeringLock
+headLight
+tailLight
+animGroup

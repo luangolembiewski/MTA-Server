@@ -1,0 +1,8 @@
+<meta>
+	<info author="" name="" version="1.0" />
+	<script src="pos.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<file src="font.ttf" cashe="false" />
+    <file src="bip.mp3"/>
+    <file src="bip2.mp3"/>
+</meta> 

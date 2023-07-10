@@ -1,0 +1,11 @@
+									  <meta>
+
+		<info author="-Thiagu*" name="Controle das Rodas" type="script" version="2.0.0" />
+
+						  <script src="config.lua" type="client" />
+						<script src="data/data_C.lua" type="client" />
+						<script src="data/data_S.lua" type="server" />
+
+							 <file src="data/roda.png"/>
+
+									  </meta>

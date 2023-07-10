@@ -1,0 +1,20 @@
+<meta>
+    <script src="mainC.lua" type="client" />
+    <script src="responsive.lua" type="client" />
+
+
+    <script src="corridas/corridaG.lua" type="shared" cache="false" />
+    <script src="corridas/corridaC.lua" type="client" />
+    <script src="corridas/corridaS.lua" type="server" />
+
+    <file src="images/tablet.png" />
+    <file src="images/schedule.png" />
+    <file src="images/wallpaper.png" />
+    <file src="images/racing.png" />
+    <file src="images/grupos.png" />
+    <file src="images/bandeira.png" />
+
+    <file src="fonts/FiraSansExtraCondensed-Bold.ttf" />
+    <file src="fonts/FiraSansExtraCondensed-SemiBold.ttf" />
+
+</meta>

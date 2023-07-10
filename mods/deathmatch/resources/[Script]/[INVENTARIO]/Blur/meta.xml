@@ -1,0 +1,14 @@
+<meta>
+	<export function="dxDrawBluredRectangle" type="client" />
+
+	<script src= "c_blur.lua" type="client" cache="false" />
+
+	<file src="shaders/blurH.fx" />
+	<file src="shaders/blurV.fx" />
+	<script src="async.lua" type="shared" />
+
+	<file src="shaders/mta-helper.fx" />
+
+	<download_priority_group>1</download_priority_group>
+
+</meta>

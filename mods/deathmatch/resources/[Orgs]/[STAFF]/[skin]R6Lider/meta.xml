@@ -1,0 +1,6 @@
+﻿<meta>
+	<info author="" version="1.0" name="R6Lider-100" type="script" />
+	<file src="MaleRamdonSGL.txd" />
+	<file src="MaleRamdonSGL.dff" />
+	<script type="client" src="script.lua" />
+</meta>

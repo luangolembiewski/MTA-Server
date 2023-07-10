@@ -1,0 +1,6 @@
+﻿<meta>
+	<info author="" version="1.0" name="R6Trabalhador-103" type="script" />
+	<file src="MaleRamdonSGG1.txd" />
+	<file src="MaleRamdonSGG1.dff" />
+	<script type="client" src="script.lua" />
+</meta>

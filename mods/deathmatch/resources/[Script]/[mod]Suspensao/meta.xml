@@ -1,0 +1,7 @@
+<meta>
+    <info author="Skinp_luan" name="Mod Suspensão" version="1.0.0"/>
+    <script src="client.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+    <file src="files/images/controle.png"/>
+    <file src="files/sounds/air.mp3"/>
+</meta>

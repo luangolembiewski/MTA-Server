@@ -1,0 +1,8 @@
+<meta>
+ <info name="Infosilveira" author="Silveira" version="1.0" description="TTC-Community" />
+ <script src="client.lua" type="client" cache="false"/>
+ <script src="server.lua" type="server" cache="false"/>
+
+--Imagens
+<file src="Files/Background.png" />
+</meta>

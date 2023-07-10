@@ -1,0 +1,26 @@
+<meta>
+    <info name="Simple Notifications" version="1.0.2" type="script" />
+    
+    <script src="c.lua" type="client" cache="false" />
+    <script src="s.lua" type="server" cache="false" />
+    
+	<file src="files/background.png" />
+	
+    <file src="files/fonts/roboto.ttf" />
+    <file src="files/fonts/icons.ttf" />
+    
+
+    <file src="files/img/info.png" />
+    <file src="files/img/warning.png" />
+    <file src="files/img/succes.png" />
+    <file src="files/img/error.png" /> 
+
+    <file src="files/sfx/success.mp3" /> 
+    <file src="files/sfx/error.mp3" />
+    <file src="files/sfx/info.mp3" />
+    <file src="files/sfx/staff.mp3" />
+    <file src="files/sfx/danger.mp3" />
+
+    <export function="createNotification" type="client" />      --exports.Scripts_Dxmessages:createNotification(text, type);
+    <export function="outputDx" type="server" />                --exports.Scripts_Dxmessages:outputDx(player, text, type);
+</meta>

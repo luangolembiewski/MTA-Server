@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="" version="1.0" name="STAFF-521" />
+     <script src="script.lua" type="client" />
+     <file src="shotaro.txd" />
+     <file src="shotaro.dff" />
+</meta>

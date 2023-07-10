@@ -1,0 +1,100 @@
+<meta>
+    <script src="script/usefull_c.lua" type="client" cache="false" />
+    <script src="script/client.lua" type="client" cache="false" />
+    <script src="script/global.lua" type="shared"/>
+    <script src="script/server.lua" type="server"/>
+    <script src="script/useitem_s.lua" type="server"/>
+    <script src="script/useitem_c.lua" type="client" cache="false" />
+    <script src="script/shop_c.lua" type="client" cache="false" />
+    <script src="script/shop_s.lua" type="server"/>
+
+   	<script src="assets/files/lib/dxEditBox.lua" type="client" cache="false" />	
+   	
+	<file src="assets/files/fonts/arial.ttf"/>	
+	
+	<file src="assets/files/drugs/maconha.png"/>
+	<file src="assets/files/drugs/sorriso.png"/>
+	
+	<file src="assets/files/inventory/amount_icon.png"/>
+	<file src="assets/files/inventory/bag.png"/>
+	<file src="assets/files/inventory/car.png"/>
+	<file src="assets/files/inventory/circle.png"/>
+	<file src="assets/files/inventory/drop_icon.png"/>
+	<file src="assets/files/inventory/send_icon.png"/>
+	<file src="assets/files/inventory/use_icon.png"/>
+	
+	<file src="assets/files/itens/1.png"/>
+	<file src="assets/files/itens/2.png"/>
+	<file src="assets/files/itens/3.png"/>
+	<file src="assets/files/itens/4.png"/>
+	<file src="assets/files/itens/5.png"/>
+	<file src="assets/files/itens/6.png"/>
+	<file src="assets/files/itens/7.png"/>
+	<file src="assets/files/itens/8.png"/>
+	<file src="assets/files/itens/9.png"/>
+	<file src="assets/files/itens/10.png"/>
+	<file src="assets/files/itens/11.png"/>
+	<file src="assets/files/itens/12.png"/>
+	<file src="assets/files/itens/13.png"/>
+	<file src="assets/files/itens/14.png"/>
+	<file src="assets/files/itens/15.png"/>
+	<file src="assets/files/itens/16.png"/>
+	<file src="assets/files/itens/17.png"/>
+	<file src="assets/files/itens/18.png"/>
+	<file src="assets/files/itens/19.png"/>
+	<file src="assets/files/itens/20.png"/>
+	<file src="assets/files/itens/21.png"/>
+	<file src="assets/files/itens/22.png"/>
+	<file src="assets/files/itens/23.png"/>
+	<file src="assets/files/itens/24.png"/>
+	<file src="assets/files/itens/25.png"/>
+	<file src="assets/files/itens/26.png"/>
+	<file src="assets/files/itens/27.png"/>
+	<file src="assets/files/itens/28.png"/>
+	<file src="assets/files/itens/29.png"/>
+	<file src="assets/files/itens/30.png"/>
+	<file src="assets/files/itens/31.png"/>
+	<file src="assets/files/itens/32.png"/>
+	<file src="assets/files/itens/33.png"/>
+	<file src="assets/files/itens/34.png"/>
+	<file src="assets/files/itens/35.png"/>
+	<file src="assets/files/itens/36.png"/>
+	<file src="assets/files/itens/37.png"/>
+	<file src="assets/files/itens/38.png"/>
+	<file src="assets/files/itens/39.png"/>
+	<file src="assets/files/itens/40.png"/>
+	<file src="assets/files/itens/41.png"/>
+	<file src="assets/files/itens/42.png"/>
+	<file src="assets/files/itens/43.png"/>
+	<file src="assets/files/itens/44.png"/>
+	<file src="assets/files/itens/45.png"/>
+	<file src="assets/files/itens/46.png"/>
+	<file src="assets/files/itens/47.png"/>
+	<file src="assets/files/itens/48.png"/>
+	<file src="assets/files/itens/49.png"/>
+    <file src="assets/files/itens/50.png"/>
+	<file src="assets/files/itens/51.png"/>
+	<file src="assets/files/itens/52.png"/>
+	<file src="assets/files/itens/53.png"/>
+	<file src="assets/files/itens/54.png"/>
+	<file src="assets/files/itens/55.png"/>
+	<file src="assets/files/itens/56.png"/>
+	<file src="assets/files/itens/57.png"/>
+	<file src="assets/files/itens/58.png"/>
+	<file src="assets/files/itens/59.png"/>
+	<file src="assets/files/itens/60.png"/>
+	<file src="assets/files/itens/61.png"/>
+	<file src="assets/files/itens/62.png"/>
+	<file src="assets/files/itens/63.png"/>
+	<file src="assets/files/itens/64.png"/>
+	<file src="assets/files/itens/65.png"/>
+ 	<export function="getItemInfo" type="client"/>
+	<export function="getInvState" type="client"/>
+	<export function="getItem" type="server"/>
+	<export function="obterItem" type="server"/>
+	<export function="sendItem" type="server"/>
+	<export function="getAllItens" type="server"/>
+	<export function="verifyKGPlayer" type="server"/>
+	<export function="getTableGlobal" type="server"/>
+	<export function="setInventario" type="client"/>
+</meta>

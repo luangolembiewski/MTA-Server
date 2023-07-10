@@ -1,0 +1,11 @@
+<meta>
+    <info author="Skinp_luan" version="1.0" name="Painel Arsenal Policia"/>
+    <script src="client.lua" type="client"/>
+    <script src="server.lua" type="server"/>
+
+    <!--HTML-->
+    <file src="html/index.html"/>
+    <file src="html/style.css"/>
+    <file src="html/script.js"/>
+    <file src="html/images/tablet.png"/>
+</meta>
